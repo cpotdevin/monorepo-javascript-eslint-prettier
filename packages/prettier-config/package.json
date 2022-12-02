@@ -1,0 +1,7 @@
+{
+  "name": "@monorepo-javascript-eslint-prettier/prettier-config",
+  "main": "index.json",
+  "dependencies": {
+    "prettier": "^2.8.0"
+  }
+}
